@@ -4,7 +4,7 @@ The basic idea was to create a little suprise while playing Looping Louie.
 
 ## electric wiring
 The electric_diagram.png shows the complete electric rewiring. The switch and the motor of the original toy are reused. All components are hidden
-inside the bottom body of the tool.
+inside the bottom body of the toy.
 
 ## software and microcontroller
 The software (main.c) was written with [AtmelStudio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) (renamed to Microchip Studio).
