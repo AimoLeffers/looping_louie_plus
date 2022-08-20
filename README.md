@@ -4,11 +4,11 @@ The basic idea was to create a little suprise while playing Looping Louie.
 
 ## electric wiring
 The electric_diagram.png shows the complete electric rewiring. The switch and the motor of the original toy are reused. All components are hidden
-inside the bottom body of the tool.
+inside the bottom body of the toy.
 
 ## software and microcontroller
 The software (main.c) was written with [AtmelStudio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) (renamed to Microchip Studio).
-The electric diagram was designed with [KiCad] (https://www.kicad.org/).
+The electric diagram was designed with [KiCad](https://www.kicad.org/).
 
 In order to get the software on the microcontroller i used a [development board](https://www.pollin.de/productdownloads/D810074B.PDF) from Pollin and 
-the [mySmartUSB MK2b USB-Programmer] (https://shop.myavr.de/index.php?sp=article.sp.php&artID=200179
+the [mySmartUSB MK2b USB-Programmer](https://shop.myavr.de/index.php?sp=article.sp.php&artID=200179)
