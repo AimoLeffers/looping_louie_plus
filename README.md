@@ -2,6 +2,8 @@
 A modification for the table game "Looping Louie" to change its rotaion speed, without any obvious changes on the outside of the toy. 
 The basic idea was to create a little suprise while playing Looping Louie.  
 
+![front_view.jpg](https://github.com/AimoLeffers/looping_louie_plus/blob/main/front_view.jpg)
+
 ## electric wiring
 The electric_diagram.png shows the complete electric rewiring. The switch and the motor of the original toy are reused. All components are hidden
 inside the bottom body of the toy.
