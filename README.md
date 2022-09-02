@@ -9,6 +9,7 @@ The electric_diagram.png shows the complete electric rewiring. The switch and th
 inside the bottom body of the toy.
 
 ![bot_view_3_electric_wiring.jpg](https://github.com/AimoLeffers/looping_louie_plus/blob/main/bot_view_3_electric_wiring.jpg)
+![electric_diagram.PNG](https://github.com/AimoLeffers/looping_louie_plus/blob/main/electric_diagram.PNG)
 
 ## software and microcontroller
 The software (main.c) was written with [AtmelStudio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) (renamed to Microchip Studio).
